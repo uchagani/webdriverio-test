@@ -1,0 +1,11 @@
+{
+"scripts": {
+    "test": "./node_modules/webdriverio/bin/wdio wdio.conf.js"
+},
+  "devDependencies": {
+    "wdio-concise-reporter": "^0.1.2",
+    "wdio-jasmine-framework": "^0.3.0",
+    "wdio-selenium-standalone-service": "0.0.8",
+    "webdriverio": "^4.6.2"
+  }
+}
